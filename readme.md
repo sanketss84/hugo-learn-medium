@@ -1,5 +1,5 @@
 # Hugo Learn
-This is a test project to learn the basics of hugo which a fast static stite generator.
+This is a test project to learn the basics of hugo which a fast static site generator.
 
 **Where to start ?**
 The hugo docs is a great place to start the [quick start](https://gohugo.io/getting-started/quick-start/) link is really helpful
