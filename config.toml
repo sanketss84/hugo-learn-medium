@@ -1,0 +1,37 @@
+baseURL = ""
+languageCode = "en-us"
+title = "Hot Proton"
+theme = "mediumish-gohugo-theme"
+summaryLength = 25
+copyright = "Sanket Sonavane - All rights reserved"
+enableEmoji = true
+publishDir = "docs"
+#disqusShortname = "your-shortname-here"
+#googleAnalytics = "UA-1XXXXXXX1-1"
+
+[params]
+  logo = "/images/hp-logo.png"
+  description ="exploring the unexplored!"
+  #mailchimp = "you can provide a mailchimp-link here"
+  custom_css = ["css/foo.css"]
+
+[params.author]
+  name = "Sanket Sonavane"
+  thumbnail = "/images/avatar.jpg"
+  description = "Creator of this blog."
+
+[params.index]
+  picture = "/images/avatar.jpg"
+  title = "Sanket Sonavane"
+  subtitle = "Coder, Photographer, Cook, Bike Rider"
+  mdtext = '''
+....
+'''
+  alertbar = false
+
+## Main Menu
+[[menu.main]]
+    name = "Blog"
+    weight = 100
+    identifier = "blog"
+    url = "/blog"
