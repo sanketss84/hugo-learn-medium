@@ -18,3 +18,4 @@
 # you can lock a version of hugo for a branch-deploy (other than previews)
 [context.branch-deploy.environment]
   HUGO_VERSION = "0.53"
+
