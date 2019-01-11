@@ -5,7 +5,7 @@ theme = "mediumish-gohugo-theme"
 summaryLength = 25
 copyright = "Sanket Sonavane - All rights reserved"
 enableEmoji = true
-publishDir = "docs"
+publishDir = "public"
 #disqusShortname = "your-shortname-here"
 #googleAnalytics = "UA-1XXXXXXX1-1"
 
